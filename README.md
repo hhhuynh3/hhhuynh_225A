@@ -1,4 +1,4 @@
-# hhhuynh_225A
+# Helen Huynh
  
  This is my repo for BMS 225A - Data Science. My work is organized as follows:
 
